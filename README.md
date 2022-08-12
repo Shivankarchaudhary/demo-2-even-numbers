@@ -8,7 +8,7 @@
 
    <img src="img1.PNG" />
 
-4. The project created has the maven structure as shown below. Maven is a build tool to give structure to Java Projects.
+4. The project created has the maven structure. Maven is a build tool to give structure to Java Projects.
 
 5. The **src** folder contains the main and test folders that have the java classes and test classes.
 
